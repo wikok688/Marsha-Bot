@@ -16,14 +16,14 @@ global.APIKeys = {
 
 
 // Other
-global.owner = ['6285704424543' ]
+global.owner = ['62818032121805','62818032121701' ]
 global.ownernomer = "6285704424543"
-global.premium = ['6285704424543']
+global.premium = ['6285704424543','62818032121701']
 global.packname = 'Kreyuk'
 global.author = 'Kreyuk'
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
-global.namebotmu = 'Masha-Bot'
+global.namebotmu = 'Xyy-Bot'
 global.tutorial = 'https://www.youtube.com'
 global.sp = ''
 global.mess = {
